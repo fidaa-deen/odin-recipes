@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+}
+
+.center {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #F6E1C3;
+  padding: 20px;
+  font-size: large;
+}
+
+.radius {
+  border: 10px solid #DFA878;
+  border-radius: 20px;
+}
