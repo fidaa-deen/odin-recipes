@@ -1,4 +1,4 @@
-.center  {
+.center {
   text-align: center;
   font-size: large;
   font-family: 'Courier New', Courier, monospace;
@@ -19,6 +19,6 @@
   font-size: 25px;
   padding: 20px;
   background-color: #fff0ba;
-  margin-left: px;
+  margin-left: 20px;
 }
 
