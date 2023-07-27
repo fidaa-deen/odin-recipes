@@ -2,14 +2,14 @@
   text-align: center;
 }
 
-.center {
+.hero-page {
   font-family: 'Courier New', Courier, monospace;
   background-color: #F6E1C3;
   padding: 20px;
   font-size: large;
 }
 
-.radius {
+.item {
   border: 10px solid #DFA878;
   border-radius: 20px;
 }

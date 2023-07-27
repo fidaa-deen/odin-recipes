@@ -1,4 +1,4 @@
-.center {
+body {
   text-align: center;
   font-size: large;
   font-family: 'Courier New', Courier, monospace;
@@ -10,15 +10,14 @@
   padding: 20px;
 }
 
-.p-big {
+.des-food {
   font-size: 25px;
 }
 
-.margin {
+.item {
   list-style-type: none;
   font-size: 25px;
   padding: 20px;
   background-color: #fff0ba;
-  margin-left: 20px;
-}
-
+  margin-right: 40px;
+} 
